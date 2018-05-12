@@ -1,5 +1,5 @@
 # CSO-102-Assignments
-UNDER GUIDANCE OF 
+Under Guidance of
 
 Dr. Sanjay Kumar Singh
 
